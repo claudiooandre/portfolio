@@ -16,8 +16,8 @@ This is a personal portfolio project built with Python (Flask) for the backend a
 
 ## Technology Stack
 
-- **Backend**: Flask (Python)
-- **Frontend**: HTML and CSS
+- **Backend**: Flask and Python3
+- **Frontend**: HTML, Javascript and CSS
 - **Email Integration**: Flask with SMTP for sending contact form messages.
 - **Hosting**: (Specify if hosted on platforms like GitHub Pages)
 
